@@ -1,7 +1,7 @@
 # SSH and Web Honeypot
 
 ## Purpose
-The purpose of this project is to provide a safe and controlled way to observe how attackers behave when targeting common services. By running these honeypots, researchers and students can learn about brute force attempts, malicious traffic patterns, and the types of commands or exploits attackers try to use. This project is designed as a learning tool to improve cybersecurity awareness, practice log analysis, and better understand real-world attack techniques without putting production systems at risk.
+The purpose of this project is to provide a safe and controlled way to observe how attackers behave when targeting common services. By running these honeypots, researchers and students can learn about brute force attempts, malicious traffic patterns, and the types of commands or exploits attackers try to use. This project is designed as a learning tool to improve cybersecurity awareness, practice log analysis, and better understand real-world attack techniques without putting systems at risk.
 
 ---
 
